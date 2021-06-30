@@ -15,3 +15,7 @@ class Person():
 user1 = Person('ahmad ', 'Droobi', '4047297855567', 'Palestinian')
 
 user1.print_person()
+
+
+
+
